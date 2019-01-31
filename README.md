@@ -1,3 +1,3 @@
 # IOS-Project
 
-My project is an for house price prediction
+My project is an app for house price prediction.
